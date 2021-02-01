@@ -1,6 +1,6 @@
 # EtherWorkCollection
 
-欢迎来到 [EtherEngine](https://github.com/VoidmatrixHeathcliff/EtherEngine) 引擎作品集，在这里，任何人都可以提交和查看使用 EtherEngine 创作的游戏、工具或其他用途的应用程序，或者与 EtherEngine 引擎有关的代码片段。
+欢迎来到 [EtherEngine](https://github.com/VoidmatrixHeathcliff/EtherEngine) 作品集，在这里，任何人都可以提交和查看使用 EtherEngine 创作的游戏、工具或其他用途的应用程序，或者与 EtherEngine 有关的代码片段。
 
 ## 关于文件标准和命名规则
 
