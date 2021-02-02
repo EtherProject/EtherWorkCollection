@@ -7,8 +7,8 @@
 | LOGO或示例图                                                 | 游戏名称   | 开发者                                                       | 仓库链接                 |
 | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ | ------------------------ |
 | NULL                                                         | \_Demo_    | [VoidmatrixHeathcliff](https://github.com/VoidmatrixHeathcliff) | [\_Demo\_](_Demo_)       |
-| <img src="ChinaChess/Table.png" style="height:50px;width:55px" /> | ChinaChess | [LHR1926](https://github.com/LHR1926)                        | [ChinaChess](ChinaChess) |
-| <img src="吃豆人游戏/player.png" style="height:50px;width:55px" /> | 吃豆人游戏 | [VoidmatrixHeathcliff](https://github.com/VoidmatrixHeathcliff) | [吃豆人游戏](吃豆人游戏) |
+| <img align="left" src="ChinaChess/Table.png" width="53" height="50"> | ChinaChess | [LHR1926](https://github.com/LHR1926)                        | [ChinaChess](ChinaChess) |
+| <img align="left" src="吃豆人游戏/player.png" width="50" height="50"> | 吃豆人游戏 | [VoidmatrixHeathcliff](https://github.com/VoidmatrixHeathcliff) | [吃豆人游戏](吃豆人游戏) |
 | NULL                                                         | 蓝屏模拟器 | [VoidmatrixHeathcliff](https://github.com/VoidmatrixHeathcliff) | [蓝屏模拟器](蓝屏模拟器) |
 | NULL                                                         | 贪吃蛇     | [MadolcheIce](https://github.com/MadolcheIce)                | [贪吃蛇](贪吃蛇)         |
 | ……                                                           | ……         | ……                                                           | ……                       |
