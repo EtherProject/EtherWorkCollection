@@ -20,6 +20,7 @@ Blk_P = 13
 Blk_S = 14
 Blk_X = 15
 
+
 font = LoadFont("font.ttf", 36)
 Redwin = LoadImage("RedWin.png")
 texture_redwin = CreateTexture(Redwin)
@@ -266,7 +267,6 @@ while true do --主循环
     CheckWin()
     if UpdateEvent()  then
         if GetEventType() == EVENT_MOUSEBTNDOWN_LEFT then
-            print(1)
             if ChessFlag ~= 1 then --选中棋子
                 rect = GetCursorPosition()
                 a, b = (rect.x + 18.125) // 66.25 + 1, (rect.y + 18.67) // 67.33 + 1
@@ -442,7 +442,7 @@ while true do --主循环
                 Chess_Rim.y = 0
                 ChessFlag = 0
             end
-        elseif GetEventType() == "QUIT" then
+        elseif GetEventType() == EVENT_QUIT then
             break
         end
     end
